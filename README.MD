@@ -36,8 +36,8 @@ module.exports = {
 }
 ```
 
-还有其他的一些问题，如果遇到了可以参考下代码中的配置。
-`webpack.config.js` 为本地开发环境配置。
+还有其他的一些问题，如果遇到了可以参考下代码中的配置。  
+`webpack.config.js` 为本地开发环境配置。  
 `webpack.production.config.js` 为线上环境配置。
 
 ## 安装
